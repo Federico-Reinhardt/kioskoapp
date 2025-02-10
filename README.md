@@ -1,11 +1,11 @@
 📦 App Kiosko
+¿Conocés a algún amigo kioskero que todavía anota sus ventas en un cuadernito? 📓 Seguro que sí. Ahora imaginá que un día, entre mate y mate, ese cuadernito queda hecho un lío o se pierde. ¿Cómo hace para saber qué vendió?
 
-Seguramente tenes un amigo Kioskero que anota sus ventas en un cuadernito. Un día se le cae el mate y tiene que adivinar que es lo que vendio.
+Esta app es la solución perfecta para ese problema. No tiene productos precargados, lo que la hace super flexible y fácil de adaptar a cualquier tipo de kiosco. Es simple, práctica y, aunque parezca un paso pequeño, puede ser el primer gran salto hacia la digitalización de las ventas.
 
-Esta app es una solución a ese problema. No tiene productos pre cargados, es muy simple pero creo que puede ser un primer paso para digitalizar las ventas.
+Lo mejor de todo es que no necesitás instalar nada en tu computadora. Simplemente descargás los archivos en un pen drive y podés ejecutarla directamente desde ahí. 💾
 
-Descarga los archivos en un pen drive y podés ejecutarlo directamente desde ahi.
-
+¡Dale una oportunidad! Porque hasta los kioscos merecen una actualización tecnológica. 😉
 
 Una aplicación simple para gestionar ventas diarias.
 
